@@ -4,7 +4,7 @@ output:
   flexdashboard::flex_dashboard:
     # :
     # storyboard: true
-    social: [ "twitter", "facebook", "menu" ]
+    social:  "menu"
     # logo: "web/images/logo.png"
     # favicon: "web/images/favicon.png"
 ---
