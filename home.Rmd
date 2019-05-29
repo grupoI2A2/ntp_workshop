@@ -24,6 +24,9 @@ img5_path <- "web/images/5_3dview-min.png"
 img6_path <- "web/images/6_viewpoint1-min.png"
 img7_path <- "web/images/7_viewpoint2-min.png"
 img8_path <- "web/images/8_shortmeasurements-min.png"
+
+
+
 ```
 
 The contest
@@ -59,12 +62,14 @@ The Noise Training Project (NTP) wants to involve students and external experts 
 
 - Make the virtual audit and report your results conforming your countries regulatory procedures
 - You can spend a maximum of 2 pages to: a)  summarize the regulation and procedure you are applying (including country and region reference); b) report the audit results
+- The submission of the final reports should be sent no later than **June 30th** to the email: [erasmusplusnoise@gmail.com](mailto:erasmusplusnoise@gmail.com)
 
 
 #### Best new scenario award
 
 - Propose scenarios that you consider relevant for the training of novel technicians or the assessment of their qualification and performance
 - You can spend a maximum of 1 page to describe the sound sources involved, the challenges of this scenario, and to justify why it would be relevant for training or assessment of any students of an environmental acoustics training course.
+- The submission of the final reports should be sent no later than **June 30th** to the email: [erasmusplusnoise@gmail.com](mailto:erasmusplusnoise@gmail.com)
 
 
 Virtual scenario {.storyboard}
@@ -103,9 +108,9 @@ include_graphics(img5_path)
 
 *** 
 
-This is a 3D view close to the limits of the activity. 
-
-The activity is an outdoor bar with a small scenario in the front of it. Any music in this scenario is coming from this point.
+- This is a 3D view close to the limits of the activity. 
+- The activity is an outdoor bar with a small scenario in the front of it. Any music in this scenario is coming from this point.
+- You can download a file kml to visualize it in Google Earth in the [Link]
 
 ### **4. Pedestrian at location Viewpoint #1** {data-commentary-width=250}
 
