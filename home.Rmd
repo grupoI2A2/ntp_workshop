@@ -5,8 +5,8 @@ output:
     # :
     # storyboard: true
     social:  "menu"
-    # logo: "web/images/logo.png"
-    # favicon: "web/images/favicon.png"
+    logo: "web/images/logo4.png"
+    favicon: "web/images/favicon.ico"
 ---
 
 ```{r setup, include=FALSE}
@@ -62,15 +62,14 @@ The Noise Training Project (NTP) wants to involve students and external experts 
 
 - Make the virtual audit and report your results conforming your countries regulatory procedures
 - You can spend a maximum of 2 pages to: a)  summarize the regulation and procedure you are applying (including country and region reference); b) report the audit results
-- The submission of the final reports should be sent no later than **June 30th** to the email: [erasmusplusnoise@gmail.com](mailto:erasmusplusnoise@gmail.com)
+- Deadline for submission of reports: **June 30^th^**. [erasmusplusnoise@gmail.com](mailto:erasmusplusnoise@gmail.com)
 
 
 #### Best new scenario award
 
 - Propose scenarios that you consider relevant for the training of novel technicians or the assessment of their qualification and performance
 - You can spend a maximum of 1 page to describe the sound sources involved, the challenges of this scenario, and to justify why it would be relevant for training or assessment of any students of an environmental acoustics training course.
-- The submission of the final reports should be sent no later than **June 30th** to the email: [erasmusplusnoise@gmail.com](mailto:erasmusplusnoise@gmail.com)
-
+- Deadline for submission of scenarios: **June 30^th^**. [erasmusplusnoise@gmail.com](mailto:erasmusplusnoise@gmail.com)
 
 Virtual scenario {.storyboard}
 =========================================
