@@ -1,0 +1,106 @@
+---
+title: "Untitled"
+output: 
+  flexdashboard::flex_dashboard
+    # :
+    # storyboard: true
+    # social: menu
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+library(knitr)    # For knitting document and include_graphics function
+library(ggplot2)  # For plotting
+library(png)      # For grabbing the dimensions of png files
+
+# Images paths
+img1_path <- "web/images/1_contestdescription.png"
+img2_path <- "web/images/2_scenariodescription.png"
+img3_path <- "web/images/3_mapofthearea.png"
+img4_path <- "web/images/4_aerialview.png"
+img5_path <- "web/images/5_3dview.png"
+img6_path <- "web/images/6_viewpoint1.png"
+img7_path <- "web/images/7_viewpoint2.png"
+img8_path <- "web/images/8_shortmeasurements.png"
+```
+
+Details
+=========================================
+
+Column
+-----------------------------------------
+
+### Descripción etiqueta 1 {data-commentary-width=0}
+
+```{r}
+include_graphics(img1_path)
+
+```
+
+
+### Virtual Noise Audit. General information.
+
+```{r}
+include_graphics(img2_path)
+```
+
+
+Analysis {.storyboard}
+=========================================
+
+### Virtual Noise Audit. Map view of the scenario {data-commentary-width=400}
+
+```{r}
+include_graphics(img3_path)
+```
+
+*** 
+Some text about the actibvity (probably the text present in the section of Activity details and noise details of the page before)
+
+### Square – aerial view {data-commentary-width=400}
+
+```{r}
+include_graphics(img4_path)
+```
+
+*** 
+This is the aerial view of the square. You can observe the limits of the activity, and the location of Viewpoint 1 and 2
+
+
+### 3D view of the activity {data-commentary-width=400}
+
+```{r}
+include_graphics(img5_path)
+```
+
+*** 
+
+This is a 3D view close to the limits of the activity. The activity is an outdoor bar with a small scenario in the front of it. Any music in this scenario is coming from this point.
+
+### Pedestrian at location Viewpoint #1 {data-commentary-width=400}
+
+```{r}
+include_graphics(img6_path)
+```
+
+*** 
+This is the view from location “Viewpoint #1”. Look at the map.
+
+### Pedestrian at location Viewpoint #2 {data-commentary-width=400}
+
+```{r}
+include_graphics(img7_path)
+```
+
+*** 
+This is the view from location “Viewpoint #2”. Look at the map.
+
+
+### SHort measurements {data-commentary-width=400}
+
+```{r}
+include_graphics(img8_path)
+```
+
+*** 
+You will have available measurements with an averaging time as small as 1 second (Leq1s). This is the time history (profile) of the measurements you can request (from 14:00 Sept 27th , to 	07:00 Sept 28th). You will also have recording obtained during that interval.
