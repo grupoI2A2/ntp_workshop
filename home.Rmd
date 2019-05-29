@@ -110,7 +110,7 @@ include_graphics(img5_path)
 
 - This is a 3D view close to the limits of the activity. 
 - The activity is an outdoor bar with a small scenario in the front of it. Any music in this scenario is coming from this point.
-- You can download a file kml to visualize it in Google Earth in the [Link]
+- You can download a *kml* file  to visualize it in Google Earth in this [link](https://github.com/grupoI2A2/ntp_workshop/raw/master/web/images/Activity.kmz)
 
 ### **4. Pedestrian at location Viewpoint #1** {data-commentary-width=250}
 
