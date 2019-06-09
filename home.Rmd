@@ -25,6 +25,8 @@ img6_path <- "web/images/6_viewpoint1-min.png"
 img7_path <- "web/images/7_viewpoint2-min.png"
 img8_path <- "web/images/8_shortmeasurements-min.png"
 
+# PDF Paths
+pdf1_measuremets <- "web/images/Measurement request form - Virtual Noise Audit.pdf"
 
 
 ```
@@ -141,3 +143,8 @@ include_graphics(img8_path)
 - You will have available measurements with an averaging time as small as 1 second (L~eq1s~). 
 - This is the time history (profile) of the measurements you can request (from 14:00 Sept 27^th^ , to 	07:00 Sept 28^th^). 
 - You will also have recording obtained during that interval.
+- The Virtual Noise Audit Coordinator (VNAC) will provide each participant the set of measurements they request according to their requirements. The measurement locations, duration, and setup will be specified in the pdf form you can download in [this link] (https://github.com/grupoI2A2/ntp_workshop/raw/master/web/images/Measurement%20request%20form%20-%20Virtual%20Noise%20Audit.pdf).Once you have filled out the form, you must send it to [erasmusplusnoise@gmail.com](mailto:erasmusplusnoise@gmail.com) and the requested data will be sent to you as soon as possible.
+
+
+
+
